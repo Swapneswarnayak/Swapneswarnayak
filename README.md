@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **1705835@kiit.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EIHfKR1EybvBqJXF89V96qgJOCcjLLig/view?usp=share_link](https://drive.google.com/file/d/1EIHfKR1EybvBqJXF89V96qgJOCcjLLig/view?usp=share_link)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1EIHfKR1EybvBqJXF89V96qgJOCcjLLig/view?usp=share_link](https://drive.google.com/file/d/1EIHfKR1EybvBqJXF89V96qgJOCcjLLig/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
