@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Swapneswar Nayak</h1>
 <h3 align="center">A passionate full Stack MERN developer</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapneswarnayak&label=Profile%20views&color=0e75b6&style=flat" alt="swapneswarnayak" /> </p>
+<img src="https://camo.githubusercontent.com/4553b6c492102c76faab978954afa4fad620096640369afbb79bd37490aee2da/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313634383635373530363230362f445254314c7a6e4e4c2e6769663f773d3136303026683d383430266669743d63726f702663726f703d656e74726f7079266175746f3d666f726d61742c636f6d7072657373266769662d713d363026666f726d61743d7765626d" alt="swapneswarnayak" />
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swapneswarnayak" alt="swapneswarnayak" /></a> </p>
 
