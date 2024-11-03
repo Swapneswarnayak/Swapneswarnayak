@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swapneswar Nayak</h1>
-<h3 align="center">A passionate full Stack MERN developer</h3>
+<h3 align="center">full Stack developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapneswarnayak&label=Profile%20views&color=0e75b6&style=flat" alt="swapneswarnayak" /> </p>
 <p>
  <p align="left" > <a href="https://drive.google.com/file/d/11FP8QcePz_y80QemjSTzzyOgHEiFVR8E/view" target="_blank">Download Resume</a></p>
